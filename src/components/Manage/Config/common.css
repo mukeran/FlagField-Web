@@ -1,0 +1,21 @@
+.settings-header>.title {
+  font-family: Lato, sans-serif;
+  font-weight: normal;
+}
+.settings-header>.subtitle {
+  margin-bottom: 0;
+}
+.settings-header>.separator {
+  margin-top: 10px;
+}
+.settings-fields>.settings-field {
+  margin-bottom: 20px;
+}
+.settings-fields>.settings-field:last-child {
+  margin-bottom: 0;
+}
+.switch-label {
+  font-size: 1.1rem;
+  font-family: Lato, sans-serif;
+  font-weight: normal;
+}
